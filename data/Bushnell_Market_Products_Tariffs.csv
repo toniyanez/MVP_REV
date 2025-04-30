@@ -1,0 +1,17 @@
+Market Country,Product Category,Brand,Shipment Origin,Tariff Applied
+USA,Binoculars (Budget),"Tasco, Simmons",China,7.5% Section 301
+USA,Binoculars (Premium),Bushnell,"Japan, Philippines, Taiwan",None
+USA,Riflescopes (Budget),"Tasco, Simmons",China,25% Section 301
+USA,Riflescopes (Premium),"Bushnell, Weaver","Japan, Philippines, Taiwan",None
+USA,Mounts/Rings,Weaver,"USA (Oroville, CA)",None (domestic)
+USA,Red Dots/Aiming Sights,"Bushnell, Tasco",China,7.5%-25% Section 301
+USA,Spotting Scopes (Budget),"Bushnell, Simmons",China,7.5%-25% Section 301
+USA,Spotting Scopes (Premium),Bushnell,"Japan, Philippines, Taiwan",None
+USA,Trail Cameras,Bushnell,China,25% Section 301
+USA,Golf Rangefinders/GPS Devices,Bushnell Golf,China,25% Section 301
+USA,Golf Rangefinders/GPS Devices,Bushnell Golf,"Taiwan, Philippines",None
+Europe,Binoculars/Riflescopes (Budget),"Tasco, Simmons",China,EU Import Tariff (4.2%-6.7%)
+Europe,Riflescopes/Binoculars (Premium),"Bushnell, Weaver","Japan, Philippines, Taiwan",EU Import Tariff (4.2%-6.7%)
+Europe,Golf Rangefinders/GPS Devices,Bushnell Golf,"China, Taiwan, Philippines",EU Import Tariff (3.7%-4.7%)
+Canada,Optics products (General),"Bushnell, Tasco, Simmons","China, Japan, Philippines, Taiwan",Canadian Import Tariffs (~3%-8%)
+Rest of World,General Optics & Electronics,"Bushnell, Tasco, Simmons","China, Japan, Philippines, Taiwan",Varies (5%-20%)

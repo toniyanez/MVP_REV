@@ -1,0 +1,14 @@
+Supplier/Manufacturer (Brand),Component Supplied,Country of Origin,Destination (Final Assembly / Market),Estimated Tariff Rate (to USA),Estimated Logistics Cost (Ocean Freight/Truck)
+Shanghai Optics (inferred),Finished Lenses / Optical Components,China,"China, Philippines (Assembly); USA, EU",7.5%-25% (Depending on final product class),"$2,000–$3,000/FEU"
+Scopro Optical (inferred),"Lenses, Prisms, Optical Subassemblies",Philippines,"Philippines, China; USA, EU",Generally None (Philippines),"$2,000–$3,000/FEU"
+Light Optical Works (inferred),"High-end Lenses, Glass Components",Japan,"Japan, China; USA, EU",None (Japan),"$3,000–$4,000/FEU"
+Local suppliers (China),Plastic & Metal Housings,China,"China (Assembly); USA, EU",7.5%-25% (if imported to USA),"$2,000–$3,000/FEU"
+"OmniVision, Sony (industry norm)","Image Sensors (Trail Cams, GPS)","China, Taiwan, Japan","China, Taiwan; USA, EU","25% (China), None (Taiwan/Japan)","$3,000–$4,000/FEU or air"
+Display Manufacturers (varied),LCD/OLED Screens for Electronics,"China, South Korea, Taiwan","China, Taiwan; USA, EU","25% (China), None (Taiwan/South Korea)","$3,000–$4,000/FEU or air"
+Unnamed (Weaver),Mounts/Rings (Finished Product),"USA (Oroville, CA)",USA (Retail & DCs),None,Domestic Trucking (~$1–2/mile)
+Bushnell/Tasco/Simmons Plants,"Binoculars, Riflescopes, Red Dots (Budget Lines)",China,"USA, Europe, Global",7.5%–25% (Section 301),"$2,000–$3,000/FEU"
+Bushnell High-End Ops,"Riflescopes, Binoculars (Premium Models)","Japan, Philippines, Taiwan","USA, Europe",None (Non-China),"$3,000–$4,000/FEU"
+Bushnell Golf,"Rangefinders, GPS Devices (Electronics)","China, Taiwan, Philippines","USA, Global","25% (China), None (TW/PH)","$3,000–$4,000/FEU"
+Simmons Manufacturing,Optics (Low-end Scopes & Binos),China,"USA, EU",7.5%–25% (Section 301),"$2,000–$3,000/FEU"
+Tasco Production,"Binoculars, Riflescopes (Budget)",China,"USA, Global",7.5%–25% (Section 301),"$2,000–$3,000/FEU"
+Weaver (Legacy Scopes?),"Riflescopes (Legacy, Unconfirmed)",Possibly Japan/China,USA,None or 25% (depending on origin),"$3,000–$4,000/FEU or Domestic Trucking"
