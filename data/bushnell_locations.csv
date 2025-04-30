@@ -1,0 +1,15 @@
+location_id,site_location,country,lat,lon,site_name,location_type
+LOC_CN_KUN,Kunming,China,25.0389,102.718,Kunming Optical (contractor),Supplier
+LOC_CN_SZ,Shenzhen,China,22.556,114.0579,Electronics Manufacturing Hub,Supplier
+LOC_CN_SUZ,Suzhou,China,31.2983,120.5832,Synta Technology Corp. (OEM),Supplier
+LOC_CN_HK,Hong Kong,China,22.3193,114.1694,Bushnell Golf Assembly,Supplier
+LOC_CN_GD,Guangdong Province,China,23.379,113.7633,Value Optics OEM Cluster,Supplier
+LOC_PH_MAN,Manila,Philippines,14.5995,120.9842,Optics Final Assembly (inferred),Supplier
+LOC_TW_GEN,Taipei,Taiwan,25.033,121.5654,Component Sourcing Hub,Supplier
+LOC_JP_GEN,Tokyo,Japan,35.6895,139.6917,Precision Optics Supplier,Supplier
+LOC_MY_KL,Kuala Lumpur,Malaysia,3.139,101.6869,Contract Electronics OEM (inferred),Supplier
+LOC_MX_MT,Monterrey,Mexico,25.6866,-100.3161,Vista Outdoor Legacy Plant,Supplier
+LOC_US_EP,"El Paso, TX",USA,31.7619,-106.485,Weaver Mounts Factory (legacy),Supplier
+LOC_US_LX,"Lenexa/Olathe, KS",USA,38.965,-94.7449,Bushnell Warehouse & Distribution Hub,Warehouse_Distribution
+LOC_US_OP,"Overland Park, KS",USA,38.9822,-94.6708,Bushnell Corporate Headquarters,Revelyst_Office
+LOC_US_AN,"Anoka, MN",USA,45.1977,-93.3872,Revelyst Registered Office,Revelyst_Office
